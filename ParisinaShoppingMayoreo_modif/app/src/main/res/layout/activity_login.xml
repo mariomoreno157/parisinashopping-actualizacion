@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        tools:context=".Login">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="#e0e0e0 "
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="150dp"
+            android:layout_height="120dp"
+            android:background="#F1000F"
+            android:contentDescription="@string/logo"
+            app:srcCompat="@drawable/logo_parisina" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Shopping Now"
+            android:textColor="#586da7"
+            android:textSize="20sp"
+            android:textStyle="bold|italic"
+            android:translationX="110dp"
+            android:translationY="90dp" />
+<!--#f4f40a -->
+
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/ButtonLogin"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="150dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        android:contentDescription = "INICIAR"
+        app:srcCompat="@drawable/boton_login"
+        android:background="?android:attr/selectableItemBackground"
+        android:onClick="RegistroInicio"/>
+
+    <!-- android:onClick="VerificInicio" -->
+    <!-- android:onClick="prueba_envio"  pruebas pantallas mayoreo -->
+
+    <ImageView
+        android:id="@+id/ButtonExit"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ButtonLogin"
+        android:contentDescription = "SALIR"
+        app:srcCompat="@drawable/boton_salir"
+        android:background="?android:attr/selectableItemBackground"
+        android:onClick="Home"
+        />
+
+    <ImageView
+        android:id="@+id/ButtonNeedYouHelp"
+        android:layout_width="120dp"
+        android:layout_height="50dp"
+        app:layout_constraintBottom_toTopOf="@+id/txt_version"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:onClick="Help_Tienda"
+        android:contentDescription = "AYUDA"
+        android:layout_marginBottom="50dp"
+        android:layout_marginEnd="10dp"
+        app:srcCompat="@drawable/boton_ayuda" />
+
+    <TextView
+        android:id="@+id/txt_version"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="   Edición 1.0.2 – por Gemetytec"
+        android:textColor="#ffffff"
+        android:background="#F1000F"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

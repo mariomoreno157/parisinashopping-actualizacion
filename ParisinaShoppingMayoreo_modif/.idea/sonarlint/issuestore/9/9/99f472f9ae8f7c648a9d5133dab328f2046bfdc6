@@ -1,0 +1,37 @@
+
+Pkotlin:S1172ß"2Use "_" instead of these unused lambda parameters.(ðúí“þÿÿÿÿ
+Pkotlin:S1172é"2Use "_" instead of these unused lambda parameters.(ê±ïúÿÿÿÿ
+\kotlin:S6619">Remove this useless non-null assertion !!, it always succeeds.(‚—çêüÿÿÿÿ
+Wkotlin:S6619 ">Remove this useless non-null assertion !!, it always succeeds.(´‹öþ
+6kotlin:S125 "Remove this commented out code.(³ˆ†ë
+;kotlin:S125:"Remove this commented out code.(öî§Ñúÿÿÿÿ
+6kotlin:S125t"Remove this commented out code.(ÉÞ‚Ë
+<kotlin:S125£"Remove this commented out code.(š“†§ýÿÿÿÿ
+<kotlin:S125¯"Remove this commented out code.(Ø–Äÿÿÿÿÿ
+7kotlin:S125¶"Remove this commented out code.(–±Ù
+<kotlin:S125‹"Remove this commented out code.(Úœà¿øÿÿÿÿ
+<kotlin:S125"Remove this commented out code.(Õ¿âÊûÿÿÿÿ
+7kotlin:S125¨"Remove this commented out code.(ŒàË³
+7kotlin:S125³"Remove this commented out code.(ŒàË³
+7kotlin:S125¾"Remove this commented out code.(ŒàË³
+<kotlin:S125Á"Remove this commented out code.(«“…Œüÿÿÿÿ
+7kotlin:S125þ"Remove this commented out code.(ŒàË³
+<kotlin:S125†"Remove this commented out code.(é§Æùþÿÿÿÿ
+fkotlin:S117þ"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$( Àæ¬
+fkotlin:S117þ"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$( Àæ¬
+fkotlin:S117þ"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$( Àæ¬
+fkotlin:S117þ"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$( Àæ¬
+kkotlin:S117™"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(é‹Å«þÿÿÿÿ
+pkotlin:S117§"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÅÀŸ”úÿÿÿÿ
+pkotlin:S117²"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÛÂÂ×þÿÿÿÿ
+pkotlin:S117½"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(œÁ˜ÿÿÿÿÿÿ
+kkotlin:S117ý"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Œºô¨
+okotlin:S117n"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Â¿ƒ°ùÿÿÿÿ
+lkotlin:S100Ó"TRename function "Help_Tienda" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(ÌüÖ
+ekotlin:S1871Ž"LThis branch's code block is the same as the block for the branch on line 78.(á¢–¬
+;kotlin:S18748"#Deprecated code should not be used.(Å¹¸·
+@kotlin:S1874I"#Deprecated code should not be used.(Ž•‚Çøÿÿÿÿ
+@kotlin:S1874I"#Deprecated code should not be used.(Ž•‚Çøÿÿÿÿ
+<kotlin:S1874¨"#Deprecated code should not be used.(Ž³ÞÛ
+okotlin:S37764"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¶Á»¬þÿÿÿÿ
+Zkotlin:S6511N"=Merge chained "if" statements into a single "when" statement.(ëæüõøÿÿÿÿ

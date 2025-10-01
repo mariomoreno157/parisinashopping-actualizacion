@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        tools:context=".Envio">
+
+
+    <LinearLayout
+        android:id="@+id/LL_SubTitle"
+        android:layout_width="880dp"
+        android:layout_height="25dp"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Facturación | "
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="0dp"
+            app:layout_constraintTop_toTopOf="parent"
+            />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Datos para su factura."
+            android:textColor="@color/black"
+            android:textSize="14.5sp"
+            app:layout_constraintStart_toEndOf="@+id/textView6"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Presionar ENTER para pasar al siguiente campo"
+        android:textColor="#ff9938"
+        android:textSize="15sp"
+        android:textStyle=""
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/LL_SubTitle" />
+
+
+        <ScrollView
+            android:id="@+id/scrollView2"
+            android:layout_width="match_parent"
+            android:layout_height="320dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginTop="15dp"
+            android:isScrollContainer="true"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView15">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+                <LinearLayout
+                    android:id="@+id/linearLayout3"
+                    android:layout_width="match_parent"
+                    android:layout_height="28dp"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textView6">
+
+                    <TextView
+                        android:id="@+id/textView3"
+                        android:layout_width="110dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:text="Razón Social: "
+                        android:textAlignment="center"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+                    <EditText
+                        android:id="@+id/edttxt_Rfc"
+                        android:layout_width="180dp"
+                        android:layout_height="24dp"
+                        android:layout_marginEnd="10dp"
+                        android:autofillHints=""
+                        android:background="#e0e0e0"
+                        android:ems="10"
+                        android:inputType="textCapCharacters"
+                        android:singleLine="true"
+                        android:textAlignment="center"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toEndOf="@+id/textView3"
+                        app:layout_constraintTop_toBottomOf="@+id/textView2"
+                        tools:targetApi="o" />
+
+                    <TextView
+                        android:id="@+id/txt_reg_check"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="19dp"
+                        android:text="Persona: "
+                        android:textSize="15sp"
+
+                        />
+                    <CheckBox
+                        android:id="@+id/chb_Fisica"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:onClick="Persona_Tipo"
+                        android:checked="false"
+                        android:text="" />
+
+                    <TextView
+                        android:id="@+id/txt_FISICA_check"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="FISICA"
+                        android:textSize="15sp"
+
+                        />
+
+                    <CheckBox
+                        android:id="@+id/chb_Moral"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:onClick="Persona_Tipo"
+                        android:checked="false"
+                        android:text="" />
+
+                    <TextView
+                        android:id="@+id/txt_MORAL_check"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="MORAL"
+                        android:textSize="15sp"
+                        />
+                </LinearLayout>
+
+
+
+                <LinearLayout
+                    android:id="@+id/LL_Regim"
+                    android:layout_width="match_parent"
+                    android:layout_height="38dp"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/LL_Est_Mun">
+
+                    <TextView
+                        android:id="@+id/TxV_Regim"
+                        android:layout_width="128dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="7dp"
+                        android:text="Régimen Fiscal: "
+                        android:textAlignment="center"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+                    <Spinner
+                        android:id="@+id/spinner_Regim"
+                        android:layout_width="250dp"
+                        android:layout_height="29dp"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginEnd="10dp"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toEndOf="@+id/textView3"
+                        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/LL_direccion_Check"
+                    android:layout_width="match_parent"
+                    android:layout_height="28dp"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/LL_DatosAdic">
+
+                    <TextView
+                        android:id="@+id/txt_dire_check"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="¿Utilizar direccion anterior?: "
+                        android:textSize="15sp"
+                        />
+
+                    <CheckBox
+                        android:id="@+id/chb_dire"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:onClick="DireAnteriorCheckbox"
+                        android:checked="false"
+                        android:text="" />
+                </LinearLayout>
+
+
+
+                <LinearLayout
+                    android:id="@+id/LL_DirecEnv"
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:layout_marginTop="0dp"
+                    android:gravity="center"
+                    android:enabled="false"
+                    android:orientation="horizontal"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/LL_Email">
+
+                    <TextView
+                        android:id="@+id/txt_DirecEnv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="0dp"
+                        android:gravity="center"
+                        android:text="DIRECCIÓN"
+                        android:textColor="#000000"
+                        android:textSize="15sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/LL_CodigoP"
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/txt_DirecEnv">
+
+                    <TextView
+                        android:id="@+id/TxV_CodigoP"
+                        android:layout_width="110dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:text="Código Postal: "
+                        android:textAlignment="center"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+
+                    <EditText
+                        android:id="@+id/SvCpFact"
+                        android:layout_width="120dp"
+                        android:layout_height="22dp"
+                        android:layout_marginEnd="10dp"
+                        android:autofillHints=""
+                        android:background="#e0e0e0"
+                        android:ems="10"
+                        android:inputType="numberDecimal"
+                        android:singleLine="true"
+                        android:textAlignment="center"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toEndOf="@+id/textView3"
+                        app:layout_constraintTop_toBottomOf="@+id/textView2"
+                        tools:targetApi="o" />
+
+                    <CheckBox
+                        android:id="@+id/chb_verf_cp_f"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:visibility="invisible"
+                        android:checked="false"
+                        android:text="" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/LL_Est"
+                    android:layout_width="match_parent"
+                    android:layout_height="42dp"
+                    android:layout_marginTop="05dp"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/LL_CodigoP">
+
+
+
+                    <androidx.constraintlayout.widget.ConstraintLayout
+                        android:layout_width="745dp"
+                        android:layout_height="match_parent"
+                        >
+
+
+
+                        <TextView
+                            android:id="@+id/TxV_Est"
+                            android:layout_width="68dp"
+                            android:layout_height="wrap_content"
+                            android:text="Estado: "
+                            android:textAlignment="textEnd"
+                            android:textSize="15sp"
+                            android:layout_marginStart="25dp"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent" />
+
+
+                        <!-- android:background="#e0e0e0" -->
+                        <Spinner
+                            android:id="@+id/spinner_Est"
+                            android:layout_width="140dp"
+                            android:layout_height="22dp"
+
+                            android:singleLine="true"
+                            android:textAlignment="center"
+                            android:textSize="15sp"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintStart_toEndOf="@+id/TxV_Est"
+                            app:layout_constraintTop_toTopOf="parent" />
+
+                        <EditText
+                            android:id="@+id/edttxt_estado_f"
+                            android:layout_width="140dp"
+                            android:layout_height="22dp"
+                            android:autofillHints=""
+                            android:background="#e0e0e0"
+                            android:ems="10"
+                            android:inputType="textCapCharacters"
+                            android:singleLine="true"
+                            android:textAlignment="center"
+                            android:textSize="15sp"
+                            android:visibility="invisible"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintStart_toEndOf="@+id/TxV_Est"
+                            app:layout_constraintTop_toTopOf="parent"
+                            tools:targetApi="o" />
+
+
+                        <TextView
+                            android:id="@+id/TxV_Mun"
+                            android:layout_width="94dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="25dp"
+                            android:text="Municipio/ \n Alcaldía: "
+                            android:textAlignment="textEnd"
+                            android:textSize="15sp"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintStart_toEndOf="@+id/spinner_Est"
+                            app:layout_constraintTop_toTopOf="parent" />
+
+                        <!--  android:background="#e0e0e0" -->
+                        <Spinner
+                            android:id="@+id/spinner_Mun"
+                            android:layout_width="140dp"
+                            android:layout_height="22dp"
+                            android:singleLine="true"
+                            android:textAlignment="center"
+                            android:textSize="15sp"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintStart_toEndOf="@+id/TxV_Mun"
+                            app:layout_constraintTop_toTopOf="parent" />
+
+                        <EditText
+                            android:id="@+id/edttxt_munic_f"
+                            android:layout_width="140dp"
+                            android:layout_height="22dp"
+                            android:autofillHints=""
+                            android:background="#e0e0e0"
+                            android:ems="10"
+                            android:inputType="textCapCharacters"
+                            android:singleLine="true"
+                            android:textAlignment="center"
+                            android:textSize="15sp"
+                            android:visibility="invisible"
+
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintStart_toEndOf="@+id/TxV_Mun"
+                            app:layout_constraintTop_toTopOf="parent"
+                            tools:targetApi="o" />
+
+                        <TextView
+                            android:id="@+id/TxV_Col"
+                            android:layout_width="70dp"
+                            android:layout_height="wrap_content"
+                            android:text="Colonia: "
+                            android:textAlignment="textEnd"
+                            android:textSize="15sp"
+                            android:layout_marginStart="25dp"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintStart_toEndOf="@+id/spinner_Mun"
+                            app:layout_constraintTop_toTopOf="parent" />
+
+                        <!--  android:background="#e0e0e0" -->
+                        <Spinner
+                            android:id="@+id/spinner_Coln"
+                            android:layout_width="140dp"
+                            android:layout_height="22dp"
+
+                            android:singleLine="true"
+                            android:textAlignment="center"
+                            android:textSize="15sp"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintStart_toEndOf="@+id/TxV_Col"
+                            app:layout_constraintTop_toTopOf="parent" />
+
+                        <EditText
+                            android:id="@+id/edttxt_colonia_f"
+                            android:layout_width="140dp"
+                            android:layout_height="22dp"
+                            android:autofillHints=""
+                            android:background="#e0e0e0"
+                            android:ems="10"
+                            android:inputType="textCapCharacters"
+                            android:singleLine="true"
+                            android:textAlignment="center"
+                            android:textSize="15sp"
+                            android:visibility="invisible"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintStart_toEndOf="@+id/TxV_Col"
+                            app:layout_constraintTop_toTopOf="parent"
+                            tools:targetApi="o" />
+
+                    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+                </LinearLayout>
+
+
+
+                <LinearLayout
+                    android:id="@+id/LL_Calle"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/LL_Est_Mun">
+
+
+
+                    <TextView
+                        android:id="@+id/TxV_Calle"
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:text="Calle: "
+                        android:textAlignment="center"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+                    <EditText
+                        android:id="@+id/edttxt_Calle"
+                        android:layout_width="180dp"
+                        android:layout_height="22dp"
+                        android:layout_marginTop="4dp"
+                        android:layout_marginEnd="10dp"
+                        android:autofillHints=""
+                        android:background="#e0e0e0"
+                        android:ems="10"
+                        android:inputType="textCapCharacters"
+                        android:singleLine="true"
+                        android:textAlignment="center"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toEndOf="@+id/textView3"
+                        app:layout_constraintTop_toBottomOf="@+id/textView2"
+                        tools:targetApi="o" />
+
+                    <TextView
+                        android:id="@+id/TxV_NoExt"
+                        android:layout_width="85dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginStart="13dp"
+                        android:text="Numero \n Exterior: "
+                        android:textAlignment="center"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+                    <EditText
+                        android:id="@+id/edttxt_NoExt"
+                        android:layout_width="90dp"
+                        android:layout_height="22dp"
+                        android:layout_marginTop="4dp"
+                        android:layout_marginEnd="10dp"
+                        android:autofillHints=""
+                        android:background="#e0e0e0"
+                        android:ems="10"
+                        android:inputType="numberDecimal"
+                        android:singleLine="true"
+                        android:textAlignment="center"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toEndOf="@+id/textView3"
+                        app:layout_constraintTop_toBottomOf="@+id/textView2"
+                        tools:targetApi="o" />
+
+                    <TextView
+                        android:id="@+id/TxV_NoInt"
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginStart="13dp"
+                        android:text="Numero Interior \n (opcional): "
+                        android:textAlignment="center"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+                    <EditText
+                        android:id="@+id/edttxt_NoInt"
+                        android:layout_width="90dp"
+                        android:layout_height="22dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginEnd="10dp"
+                        android:autofillHints=""
+                        android:background="#e0e0e0"
+                        android:ems="10"
+                        android:inputType="numberDecimal"
+                        android:singleLine="true"
+                        android:textAlignment="center"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toEndOf="@+id/textView3"
+                        app:layout_constraintTop_toBottomOf="@+id/textView2"
+                        tools:targetApi="o" />
+
+                </LinearLayout>
+
+
+
+                <LinearLayout
+                    android:id="@+id/LL_NoInt"
+                    android:layout_width="match_parent"
+                    android:layout_height="56dp"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/LL_Col_NoExt">
+
+                    <ImageView
+                        android:id="@+id/ButtonVerif"
+                        android:layout_width="150dp"
+                        android:layout_height="55dp"
+                        android:layout_marginTop="2dp"
+                        android:background="?android:attr/selectableItemBackground"
+                        android:enabled="true"
+                        android:onClick="factura_datos_check"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:srcCompat="@drawable/boton_registro" />
+
+                </LinearLayout>
+
+
+
+
+                <!--   <com.google.android.material.textfield.TextInputLayout
+                       android:id="@+id/emailContainer"
+                       android:layout_marginHorizontal="20dp"
+                       app:helperText="Required"
+                       app:helperTextTextColor="@android:color/holo_red_dark"
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:layout_marginTop="30dp"
+                       app:layout_constraintEnd_toEndOf="parent"
+                       app:layout_constraintStart_toStartOf="parent"
+                       app:layout_constraintTop_toTopOf="parent"
+                       android:visibility="invisible">
+
+                       <com.google.android.material.textfield.TextInputEditText
+                           android:id="@+id/emailEditText"
+                           android:layout_width="match_parent"
+                           android:layout_height="match_parent"
+                           android:lines="1"
+                           android:inputType="textEmailAddress"
+                           android:hint="-email-"
+                           android:visibility="invisible"/>
+
+
+                   </com.google.android.material.textfield.TextInputLayout>  -->
+
+
+            </LinearLayout>
+        </ScrollView>
+
+
+
+    <ProgressBar
+        android:id="@+id/indeterminate_circular_indicator"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:minHeight="24dp"
+        android:indeterminate="true"
+        android:indeterminateTintMode="src_atop"
+        android:indeterminateTint="@color/FondoParisina"
+        android:visibility="invisible"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="@+id/scrollView2"  />
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

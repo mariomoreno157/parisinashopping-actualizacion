@@ -1,0 +1,145 @@
+
+vkotlin:S1172‹"2Use "_" instead of these unused lambda parameters.(°‚Ú…øÿÿÿÿJ$ecbc3c84-c05d-42f0-9ec1-81b75d6b35e7
+vkotlin:S1172Œ
+"2Use "_" instead of these unused lambda parameters.(ğúí“şÿÿÿÿJ$5ff2b544-4283-4626-8514-f7ff265e6920
+xkotlin:S1172¬"4Use "_" instead of this unused lambda parameter "v".(­ı†ÿÿÿÿÿÿJ$1f35a38d-344c-460f-80aa-fd819ec5be20
+xkotlin:S1172Ó"4Use "_" instead of this unused lambda parameter "v".(³†µøÿÿÿÿJ$2c59f8af-a2fd-4ebc-bece-2edd8a8fb3c2
+qkotlin:S1172˜	"2Use "_" instead of these unused lambda parameters.(‰ƒÈïJ$d12a7d97-4711-4589-a48c-891f68852421
+qkotlin:S1172©	"2Use "_" instead of these unused lambda parameters.(‰ƒÈïJ$6e253001-d36b-4b64-9d7b-9c7fcd90aaa5
+qkotlin:S1172¼	"2Use "_" instead of these unused lambda parameters.(‰ƒÈïJ$1b696092-f254-4b65-8391-79f9fa611d27
+qkotlin:S1172Æ	"2Use "_" instead of these unused lambda parameters.(‰ƒÈïJ$a7c3e485-de18-454f-ad72-04a9ecc6420a
+}kotlin:S1172•
+"2Use "_" instead of these unused lambda parameters.(ê±ïúÿÿÿÿ8‚»—“3J$8e0249d2-6d0b-4d64-80f5-b5ff29d01458
+}kotlin:S1172ü"2Use "_" instead of these unused lambda parameters.(ê±ïúÿÿÿÿ8ƒ»—“3J$dbfbda2a-d350-4cc7-b9bf-32e0048b4c54
+dkotlin:S6615¿" Remove this useless initializer.(Ş¹çÔÿÿÿÿÿJ$06cff976-318b-4a48-8a5c-fbd4ac057928
+_kotlin:S6615¾" Remove this useless initializer.(Â·â½J$a583a4b6-4c40-4816-8599-b6bfa02234c3
+dkotlin:S6615" Remove this useless initializer.(Ş¹çÔÿÿÿÿÿJ$748cea01-cda4-4de6-bb5c-369f2de36c32
+_kotlin:S6615Œ" Remove this useless initializer.(Â·â½J$21d7bc37-a38e-445f-8378-225a46afaae3
+_kotlin:S6615â" Remove this useless initializer.(³ˆŸJ$aff3263b-db1b-4eec-8e07-9467c8dcfb24
+_kotlin:S6615•" Remove this useless initializer.(³ˆŸJ$501ada7d-8cc1-4063-8cff-4234581f8f6f
+_kotlin:S6615¨" Remove this useless initializer.(¹İJ$51218fe0-e3a1-4a87-9154-279b3eba1f56
+dkotlin:S6615›" Remove this useless initializer.(ÙÜú–ıÿÿÿÿJ$b5757c16-9e31-4f2e-9197-08ea8a0d07ff
+dkotlin:S6615±" Remove this useless initializer.(íÒò»úÿÿÿÿJ$be86952f-43f0-477e-8035-c5b45a766822
+dkotlin:S6615¯" Remove this useless initializer.(Ş¹çÔÿÿÿÿÿJ$530b5195-d697-479a-9b7b-582fb88e3c0b
+_kotlin:S6615®" Remove this useless initializer.(Â·â½J$14560334-3287-45a7-bbb6-e6ec02fba22d
+dkotlin:S6615á" Remove this useless initializer.(íÒò»úÿÿÿÿJ$0b054858-8887-4d14-a801-fe342cc369fc
+dkotlin:S6615á" Remove this useless initializer.(íÒò»úÿÿÿÿJ$4ac17d59-b7a4-436e-bb2b-731e0c1d1d54
+dkotlin:S6615ß" Remove this useless initializer.(Ş¹çÔÿÿÿÿÿJ$eb4aca7e-4747-417b-8b93-485c2654ba05
+fkotlin:S6615Ş" Remove this useless initializer.(Â·â½8ÆşßÏ•3J$483c60f6-0430-48af-859e-a16e6737239e
+vkotlin:S6619ß"7Remove this useless non-null check, it always succeeds.(ÉäÖ¼J$7a9845cf-ae34-41c7-8f81-246233b66391
+}kotlin:S6619µ">Remove this useless non-null assertion !!, it always succeeds.(ÀØ€§J$2dd7bec7-d657-42f2-97f1-69b0b0aa2db3
+}kotlin:S6619ä">Remove this useless non-null assertion !!, it always succeeds.(¤ÉœêJ$23d7d08a-d09a-45be-af46-3bf345078885
+bkotlin:S125Ö"Remove this commented out code.(½ìÑ÷øÿÿÿÿJ$7aaad370-3b7b-4ff3-8add-d6f02ac7b03f
+]kotlin:S125Û"Remove this commented out code.(¤á–œJ$5d0d8422-4ac7-4b23-b699-a01fe7c8c5c4
+bkotlin:S125í"Remove this commented out code.(öÿ±ƒûÿÿÿÿJ$c548ae35-7cb9-43d1-8f39-de6a6d6f994f
+]kotlin:S125“"Remove this commented out code.(¾şøJ$84016ccd-3f40-4a8a-bd74-b1d913a67b9f
+]kotlin:S125Ä"Remove this commented out code.(¾şøJ$89cb1915-0e2b-4fd5-bf93-bf941a407e70
+]kotlin:S125ç"Remove this commented out code.(ä¥ïíJ$e8ff26f5-ac90-4c8c-9bb8-9c89b89e6293
+bkotlin:S125ô"Remove this commented out code.(Ş“€üÿÿÿÿJ$111b1276-9efe-487d-8ba8-8742d31b57e5
+bkotlin:S125ƒ"Remove this commented out code.(æùö©ùÿÿÿÿJ$46e6297c-8f2c-4ff2-925d-0601431273b6
+]kotlin:S125Æ"Remove this commented out code.(–±ÙJ$e9fa38b3-3e69-461c-8d00-537a3da7b00f
+bkotlin:S125à"Remove this commented out code.(Ğ³«€øÿÿÿÿJ$98b33ce3-2932-4ab5-a070-c27f21220df5
+]kotlin:S125¼"Remove this commented out code.(×ÛÆğJ$9a17403c-2c10-4d62-be1d-1ea5764e242e
+]kotlin:S125Á"Remove this commented out code.(¬ÅÕJ$755046af-ae46-4f3b-b26a-dadceb34f31a
+]kotlin:S125‹"Remove this commented out code.(×ÛÆğJ$b92ffe39-74bd-453f-87e8-84391e980f7c
+]kotlin:S125€"Remove this commented out code.(¶‚Ş­J$07877921-3e86-4c14-82aa-cea63547b697
+bkotlin:S125’"Remove this commented out code.(Ò‹¤ıÿÿÿÿJ$5085c77b-f9d0-4658-a70e-75369227efee
+]kotlin:S125¸"Remove this commented out code.(¾şøJ$947e65b0-f715-43eb-87fa-34fa7e4623f2
+]kotlin:S125Ê"Remove this commented out code.(Î€ÕéJ$e82ff15f-5ea6-4663-9146-1d4c683d8c47
+]kotlin:S125ç"Remove this commented out code.(¾şøJ$3d44ea71-e89d-461c-bf0a-2cd472ffad5c
+bkotlin:S125Í"Remove this commented out code.(Ë†úäúÿÿÿÿJ$e4ef8691-efd4-4ac6-b568-6b0633e31ce2
+bkotlin:S125Ğ"Remove this commented out code.(³äŒ²ùÿÿÿÿJ$f53b667f-bc7b-4c67-b060-016804606e1a
+]kotlin:S125Ó"Remove this commented out code.(¹ĞªJ$fc1a7ed4-71c3-49e5-98ce-a5420b6f24f2
+bkotlin:S125á"Remove this commented out code.(‚¡˜ÏüÿÿÿÿJ$e1bb2f19-1bdd-4e3d-8d6b-2b235540b413
+bkotlin:S125è"Remove this commented out code.(“‡ı²ûÿÿÿÿJ$fa3bf797-9e8b-4957-862e-11245305da13
+]kotlin:S125ô"Remove this commented out code.(¹ĞªJ$9c5a1e42-7ada-4f35-ba56-843e956783f2
+bkotlin:S125Á	"Remove this commented out code.(ÿÑ±³ûÿÿÿÿJ$8c02a357-8cc2-4166-beed-3893cac652d4
+bkotlin:S125Ë	"Remove this commented out code.(«“…ŒüÿÿÿÿJ$1ed90983-61c1-4e20-80c9-b1179e49172b
+dkotlin:S125—
+"Remove this commented out code.(×–•8ÜşßÏ•3J$9752d45f-c694-456e-8c76-b2b60085d3c7
+ikotlin:S125š
+"Remove this commented out code.(«ñ–®ùÿÿÿÿ8İşßÏ•3J$79d4bedc-8201-4c69-a6b4-96ed2b645ae6
+ikotlin:S125¶
+"Remove this commented out code.(Ê²Ôöùÿÿÿÿ8İşßÏ•3J$afdf58f1-f1d1-4225-a99d-02134e5e5fb4
+Œkotlin:S117¦"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(È¶…€J$a70a8bb7-f102-41c7-ba34-21481fc25833
+Œkotlin:S117¦"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(È¶…€J$cfa1cc39-e902-4e03-888b-4d41f0244c64
+Œkotlin:S117¦"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(È¶…€J$b4c61329-6a2b-4d0d-b3cb-7562f6c127d0
+Œkotlin:S117¦"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(È¶…€J$05486088-c484-46f5-ab50-613fdb3c6946
+Œkotlin:S117Ù"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÏÃÈÜJ$8bc47b5a-3fd9-4bce-bd3f-d5279cb59b26
+Œkotlin:S117¢"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$( Àæ¬J$d0d25e78-2cb1-455c-b496-65db383aa806
+Œkotlin:S117¢"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$( Àæ¬J$b6b9aca7-3bc4-42bc-b94d-f180cfcc5ed2
+Œkotlin:S117¢"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$( Àæ¬J$08aee293-c534-4000-b7cb-ad8d4ab3c91f
+Œkotlin:S117¢"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$( Àæ¬J$06e14ae7-7ea9-4a77-b709-b56ed2b2cb83
+‘kotlin:S117¿"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(é‹Å«şÿÿÿÿJ$03f93421-ac76-4f4b-aa32-c1d91197a0c3
+‘kotlin:S117Á"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¦‚øĞJ$2f55788a-16aa-4b66-911d-837bf6754330
+–kotlin:S117›"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÙÜú–ıÿÿÿÿJ$23ddcae4-2a5b-4bc4-90ab-f7e710c7bb69
+–kotlin:S117§"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(íÙ¢ØüÿÿÿÿJ$fe8f1b7f-9eb0-41db-8ca8-e6164a8f1551
+‘kotlin:S117«"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÉÅãæJ$12dc130e-5218-4b68-91eb-b374fb4b0446
+–kotlin:S117¬"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(€½åçùÿÿÿÿJ$8d77c356-bf6c-49d3-861f-19fd49746de8
+–kotlin:S117±"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(íÒò»úÿÿÿÿJ$79d5b3b7-6bd8-4e08-951e-d7fb8bd100da
+–kotlin:S117±"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(íÒò»úÿÿÿÿJ$208ca863-8ae9-44ba-a959-39be39b2f28c
+–kotlin:S117ò"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ô‚ôıûÿÿÿÿJ$aa343f7d-4d50-410f-a45d-95f91bb47eb0
+‘kotlin:S117ú"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ç–ÅJ$b75ba435-c126-4e5e-91cc-2cf99baa0fcd
+–kotlin:S117á"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(íÒò»úÿÿÿÿJ$c9a140b4-d458-4bce-8d08-99e09c5b51e5
+–kotlin:S117á"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(íÒò»úÿÿÿÿJ$ac2957db-754d-4df5-8bd2-4448192a1d0f
+‘kotlin:S117´"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÅÂóÿJ$91fd9626-6490-4c52-9042-c2a60c851a79
+‘kotlin:S117µ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(åİ¸J$4cad9bc4-89fd-44c7-b745-e040720f92ea
+–kotlin:S117õ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(‹Î¼òùÿÿÿÿJ$029a40ef-fbab-4d54-b4ed-eaf27e51bf98
+–kotlin:S117–"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(òÄ­¥ıÿÿÿÿJ$dd23f484-a3eb-44e1-b97c-b7ef04261b25
+‘kotlin:S117„"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ú›×J$98d6d758-b0ce-44ad-b626-7aeaf5a83381
+–kotlin:S117‹"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Õ‘´½üÿÿÿÿJ$91efa240-6bfa-48ec-aa2c-52aa7a2af490
+–kotlin:S117Œ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¬Ù±şÿÿÿÿJ$2a064d63-89e0-420f-9ff7-3823eb2f10d7
+–kotlin:S117"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(Ü‹°ŸùÿÿÿÿJ$829b7219-efe6-4c50-90d7-e096b178885e
+–kotlin:S117"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$( îĞıÿÿÿÿJ$26ff8ce6-e906-42d9-b96b-ce1dfcd94326
+˜kotlin:S117Ü	"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ìıÛÒ8…ì‹“3J$bc0df88f-ba50-4a66-8299-e44e5e1b13f3
+–kotlin:S117ã"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(òÄ­¥ıÿÿÿÿJ$92fdc35a-92d8-4edb-9afc-85136465283e
+‘kotlin:S117§"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(³×ÒJ$52ea3880-9d41-48e8-aee9-4e77fe6cf173
+‘kotlin:S117¨"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¿ä¤èJ$e8df3c77-4603-4bc4-bb70-e18b8df3f84f
+‘kotlin:S117©"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(†êäJ$c6586e65-00be-451c-a309-6a895484096b
+‘kotlin:S117ª"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(‡’Ó¨J$2e9fb4cc-e7eb-43a9-acc0-dc8123931d48
+–kotlin:S117È"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(âÓùÕøÿÿÿÿJ$a98b2478-0476-449f-8f61-da2dba7063ed
+‘kotlin:S117Ğ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ç–ÅJ$38e8dda0-253c-45e7-bc01-8f4204481cc7
+–kotlin:S117†"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(²Ã£úÿÿÿÿJ$97556231-2723-475e-8d2e-637e51564e2d
+–kotlin:S117‡"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(çÚøøÿÿÿÿJ$3a50db14-94ca-493b-ba56-593f747e0cba
+–kotlin:S117‹"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(«Ç¿ûûÿÿÿÿJ$ba445342-7b90-4bfe-b544-990479eef9de
+–kotlin:S117Œ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¯¨µœùÿÿÿÿJ$9993dc1e-e1cd-4016-b81b-49eed330133f
+‘kotlin:S117å"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(³×ÒJ$d129f9e1-d4f2-450c-bb06-f70970731c92
+‘kotlin:S117æ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(¿ä¤èJ$ea684ef3-7265-461e-a0fa-eb4ce041c6ac
+–kotlin:S117À	"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÆŒ’şÿÿÿÿJ$5cc522f2-97e8-4546-83a8-772a31b88921
+‘kotlin:S117	"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(×ÂæÿJ$d8615ab5-b541-4d48-8f68-4469d3b1e88a
+–kotlin:S117ï"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(©ÀìÇüÿÿÿÿJ$86745d0b-a928-4dbd-a8c8-8db7eba12125
+–kotlin:S117ğ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$( ™üÿÿÿÿJ$aa46bb50-61f0-4ad8-a8a2-9b46810d9439
+–kotlin:S117ñ"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ºÒ¦ıÿÿÿÿJ$766f6c91-73fc-418c-b398-40fbd43dfc55
+–kotlin:S117ò"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(´“’õşÿÿÿÿJ$6e95a74e-df2b-4041-acd7-076e37a949e1
+pkotlin:S1481Ğ"1Remove this unused "string_total" local variable.(ç–ÅJ$d5ac5910-0ee8-427a-a422-4c9dce117f2b
+skotlin:S1481È"/Remove this unused "suma_total" local variable.(âÓùÕøÿÿÿÿJ$7c84357f-c04a-4dc3-a2ad-6459283a0bf7
+™kotlin:S100€
+"TRename function "Help_Tienda" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(ÌüÖ8×ÿßÏ•3J$7c7d6e31-e66f-4752-b0b5-88dc0debd3db
+“kotlin:S1192Ó"TDefine a constant instead of duplicating this literal "ParisinaConfigDB.db" 7 times.(Ú‘ëŸJ$7d3c2ed8-0e95-464f-86ce-d4144fad8569
+‡kotlin:S1192š"HDefine a constant instead of duplicating this literal "@Codigo" 3 times.(ûóöàJ$36f0b157-2230-40b5-9b25-6f220451d5c8
+‘kotlin:S1871›"MThis branch's code block is the same as the block for the branch on line 120.(Í»À–üÿÿÿÿJ$8945b1f2-d279-4660-9bea-66768c829f00
+Œkotlin:S1871Ÿ"MThis branch's code block is the same as the block for the branch on line 120.(å¥‡J$68396c73-cb96-49c0-9e6e-a9bd6519451e
+ekotlin:S1110Æ"!Remove these useless parentheses.(ãºŸ¿øÿÿÿÿJ$3f22e517-470c-4c40-b28b-00ba6dc74ef6
+akotlin:S1874^"#Deprecated code should not be used.(Å¹¸·J$eb7a6fb7-c8b8-4dd8-9da6-7f661db4e298
+fkotlin:S1874s"#Deprecated code should not be used.(•‚ÇøÿÿÿÿJ$f9364d81-ca40-4cdf-a262-6a405810dcbb
+fkotlin:S1874s"#Deprecated code should not be used.(•‚ÇøÿÿÿÿJ$282aef02-674d-48ec-865f-97ec2e85ea7a
+bkotlin:S1874³"#Deprecated code should not be used.(³ŞÛJ$c1ce2c09-2e15-4873-9ac0-4753a8300d98
+ikotlin:S1874±
+"#Deprecated code should not be used.(ãÇ…ˆ8éÿßÏ•3J$a6366505-4141-49b6-b4d7-b49dcfb5f21f
+`kotlin:S1874"#Deprecated code should not be used.(¦‹ø_J$46c1d270-7ed9-4224-8cc7-d6ef3656b88c
+bkotlin:S1874Ë"#Deprecated code should not be used.(öÛ›¸J$351a69fc-896f-4c6d-aee9-f14aa8321355
+bkotlin:S1874Ì"#Deprecated code should not be used.(Õù¶æJ$dfe2ff2a-7314-42c7-a465-9e19b1295d14
+bkotlin:S1874Ì"#Deprecated code should not be used.(Õù¶æJ$5eca4921-b594-4150-b220-7c8d03acdeba
+bkotlin:S1874Ì"#Deprecated code should not be used.(Õù¶æJ$0bb81ef4-aad1-4cf4-b3ce-19f522ce816c
+bkotlin:S1874Ì"#Deprecated code should not be used.(Õù¶æJ$97542307-c3b3-4194-8d45-621ac7f9b6e9
+ikotlin:S1874±
+"#Deprecated code should not be used.(ãÇ…ˆ8êÿßÏ•3J$fdc09001-eef6-4798-8cd5-aa3d244428f7
+•kotlin:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 85 to the 15 allowed.(¶Á»¬şÿÿÿÿJ$8f0db8de-d95f-4fa0-bc56-cac76a9ad795
+–kotlin:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(İæÊùÿÿÿÿJ$e64e9cf1-c54f-4288-af5f-167c5ba8609f
+–kotlin:S3776—"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÿ°ËÆıÿÿÿÿJ$b2bb9386-2ff9-4559-adff-cee13d7c2516
+‘kotlin:S3776î"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ûÜšĞJ$9260ae02-30e3-4a6d-8a2b-8eaba9016a49
+€kotlin:S6511x"=Merge chained "if" statements into a single "when" statement.(ëæüõøÿÿÿÿJ$89145ce2-d35a-4731-953a-92d830967713
+|kotlin:S6511Â"=Merge chained "if" statements into a single "when" statement.(Ñ¿ÄJ$fe96170d-eb94-41f3-a244-2200ad81c965
+|kotlin:S6511•"=Merge chained "if" statements into a single "when" statement.(ı¬Ş„J$780c3a59-7abd-48ed-a8cb-ae1d6b41c2c5
+|kotlin:S6511¤"=Merge chained "if" statements into a single "when" statement.(ö± ÇJ$5af9bf09-8751-46f1-ad08-728a6874f742
+okotlin:S6519Ö"+Replace "equals" with binary operator "==".(‘œòğûÿÿÿÿJ$4385af0f-8482-482c-bb38-c67c414ea087

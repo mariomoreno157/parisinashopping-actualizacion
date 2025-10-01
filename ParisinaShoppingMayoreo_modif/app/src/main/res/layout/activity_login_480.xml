@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".Login">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#e0e0e0 "
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="130dp"
+            android:layout_height="100dp"
+            android:background="#F1000F"
+            android:contentDescription="@string/logo"
+            app:srcCompat="@drawable/logo_parisina" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Shopping Now"
+            android:textColor="#586da7"
+            android:textSize="20sp"
+            android:textStyle="bold|italic"
+            android:translationX="70dp"
+            android:translationY="70dp" />
+        <!--#f4f40a -->
+
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/ButtonLogin"
+        android:layout_width="170dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="70dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:contentDescription="INICIAR"
+        android:onClick="RegistroInicio"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        app:srcCompat="@drawable/boton_login" />
+    <!-- android:onClick="VerificInicio" -->
+    <!-- android:onClick="prueba_envio"  pruebas pantallas mayoreo -->
+
+    <ImageView
+        android:id="@+id/ButtonExit"
+        android:layout_width="120dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="20dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:contentDescription="SALIR"
+        android:onClick="Home"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ButtonLogin"
+        app:srcCompat="@drawable/boton_salir" />
+
+    <ImageView
+        android:id="@+id/ButtonRegistrar"
+        android:layout_width="180dp"
+        android:layout_height="55dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:onClick="RegistroNew"
+        android:visibility="invisible"
+        android:layout_marginStart="30dp"
+        app:layout_constraintBottom_toTopOf="@+id/txt_version"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ButtonExit"
+        app:srcCompat="@drawable/boton_registrar" />
+
+    <ImageView
+        android:id="@+id/ButtonNeedYouHelp"
+        android:layout_width="90dp"
+        android:layout_height="45dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="20dp"
+        android:contentDescription="AYUDA"
+        android:onClick="Help_Tienda"
+        app:layout_constraintBottom_toTopOf="@+id/txt_version"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/boton_ayuda" />
+
+    <TextView
+        android:id="@+id/txt_version"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="#F1000F"
+        android:text="   Edición 1.0.2 – por Gemetytec"
+        android:textColor="#ffffff"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_end="40dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

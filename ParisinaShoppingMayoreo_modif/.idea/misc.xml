@@ -1,0 +1,73 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/drawable/borde_redondo.xml" value="0.25" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/drawable/redondeo_sin.xml" value="0.259" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_alertdialog_Acceso.xml" value="0.15" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_alertdialog_acceso.xml" value="0.25" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_login _720.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_login_480.xml" value="0.16" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_login_720.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_menu.xml" value="0.5" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_menu_480.xml" value="0.75" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_menu_720.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_pago.xml" value="0.25" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_pago_480.xml" value="0.22" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_pedido.xml" value="0.9" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_pedido_480.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_promociones.xml" value="0.5" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_promociones_480.xml" value="0.22" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_registro.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_registro_480.xml" value="0.25" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_registro_720.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShopping/app/src/main/res/layout/activity_verificado_articulo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_click_datos.xml" value="0.25" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_click_datos_factura_tab .xml" value="0.2015625" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_click_datos_factura_tab.xml" value="0.5" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_click_datos_tab.xml" value="0.5073586367157242" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_cliente_buscar.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_cliente_buscar_tab.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_envio.xml" value="0.25" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_envio_tab.xml" value="0.22" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_facturar.xml" value="0.25" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_facturar_tab.xml" value="0.4118564742589704" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_login_480.xml" value="0.67" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_login_720.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_mayoreo_480.xml" value="0.25" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_mayoreo_tab.xml" value="0.3875838926174497" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_menu_480.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_menu_720.xml" value="0.2015625" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_menu_tab.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_pago.xml" value="0.2015625" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_pago_480.xml" value="0.2015625" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_pago_tab.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_pedido.xml" value="0.5" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_pedido_480.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_pedido_tab.xml" value="0.25" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_promociones.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_promociones_480.xml" value="0.2015625" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_promociones_720.xml" value="0.2015625" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_promociones_tab.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_regimenItem.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_regimen_item.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_registro.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_registro_480.xml" value="0.33" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_registro_720.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_verificado_articulo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_verificado_articulo_tab.xml" value="0.5" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_verificado_cliente_envio.xml" value="0.22" />
+        <entry key="..\:/Users/mario.moreno/AndroidStudioProjects/ParisinaShoppingMayoreo/app/src/main/res/layout/activity_verificado_cliente_factura.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

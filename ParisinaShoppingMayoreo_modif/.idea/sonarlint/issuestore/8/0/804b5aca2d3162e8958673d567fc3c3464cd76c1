@@ -1,0 +1,23 @@
+
+;kotlin:S125~"Remove this commented out code.(Íú¢‘øÿÿÿÿ
+wkotlin:S4144È"^Update this function so that its implementation is not identical to "borrarDatos" on line 194.(àÜæÒ
+jkotlin:S117p"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(œîÆ‘ûÿÿÿÿ
+jkotlin:S117p"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(œîÆ‘ûÿÿÿÿ
+jkotlin:S117y"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÅÂ¤ïüÿÿÿÿ
+kkotlin:S117¥"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ú­Ğúıÿÿÿÿ
+fkotlin:S117²"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(õÃúô
+okotlin:S117"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(†ƒ¡úÿÿÿÿ
+kkotlin:S117«"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(È’õ¾
+^kotlin:S107a"GThis function has 8 parameters, which is greater than the 7 authorized.(†˜¶
+2kotlin:S1128"Remove this unused import.(®½ğ¥
+2kotlin:S1128"Remove this unused import.(´Ùí
+Œkotlin:S1192 "tDefine a constant instead of duplicating this literal "CREATE TABLE cilindrosenci(capcil text,totimp text)" 3 times.(©ÄÄã
+Ékotlin:S1192""°Define a constant instead of duplicating this literal "CREATE TABLE cilindrosence(lote text,cliente text,numcont text,capcil text,numemb text,totemb text,sttemb text)" 4 times.(óóÇ³
+ãkotlin:S1192$"ÊDefine a constant instead of duplicating this literal "CREATE TABLE cilindrosdet(id int primary key,capcil text,nif text,fechaimp text,lote text, cliente text,sttemb text,sttexp text,imp text)" 4 times.(üÁÈê
+€kotlin:S1192:"cDefine a constant instead of duplicating this literal "DROP TABLE IF EXISTS cilindrosence" 3 times.(…áâÿÿÿÿÿ
+kotlin:S1192@"bDefine a constant instead of duplicating this literal "DROP TABLE IF EXISTS cilindrosdet" 3 times.(¤¥Áşÿÿÿÿ
+ikotlin:S1871<"LThis branch's code block is the same as the block for the branch on line 57.(¬×ò“ùÿÿÿÿ
+rkotlin:S1186("ZAdd a nested comment explaining why this function is empty or complete the implementation.(³´Å
+Zkotlin:S6511-"=Merge chained "if" statements into a single "when" statement.(Âé¦ñûÿÿÿÿ
+Jkotlin:S1862<"-This condition duplicates the one on line 57.(¬×ò“ùÿÿÿÿ
+Jkotlin:S1862?"-This condition duplicates the one on line 57.(¬×ò“ùÿÿÿÿ
